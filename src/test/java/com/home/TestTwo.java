@@ -18,6 +18,7 @@ public class TestTwo {
         Configuration.browserSize = "1920x1040";
     }
 
+
     @Test
     void textBox() {
         open("https://demoqa.com/automation-practice-form");
